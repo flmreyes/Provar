@@ -1,0 +1,10 @@
+[960:6180:0912/112001.637:WARNING:chrome_command_line_pref_store.cc(117)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[960:6180:0912/112001.647:WARNING:chrome_command_line_pref_store.cc(117)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[960:6180:0912/112001.792:WARNING:chrome_command_line_pref_store.cc(117)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[960:3380:0912/112002.212:WARNING:leveldb_database.cc(106)] Unable to open C:\Users\francis.l.m.reyes\GitHub\.provarCaches\.chromeProfiles\profile0\Default\shared_proto_db: Invalid argument: C:\Users\francis.l.m.reyes\GitHub\.provarCaches\.chromeProfiles\profile0\Default\shared_proto_db: does not exist (create_if_missing is false)
+[960:6180:0912/112016.598:INFO:CONSOLE(32)] "[object Object]", source: https://ips-provar.lightning.force.com/libraries/instrumentation/beaconLib/BeaconLibrary.js (32)
+[960:6180:0912/112024.190:INFO:CONSOLE(32)] "[object Object]", source: https://ips-provar.lightning.force.com/libraries/instrumentation/beaconLib/BeaconLibrary.js (32)
+[960:6180:0912/112041.982:INFO:CONSOLE(32)] "[object Object]", source: https://ips-provar.lightning.force.com/libraries/instrumentation/beaconLib/BeaconLibrary.js (32)
+[960:6180:0912/112046.893:INFO:CONSOLE(2)] "<lightning-icon> Invalid icon name utility:", source: https://ips-provar.lightning.force.com/components/lightning/icon.js (2)
+[960:6180:0912/112052.782:INFO:CONSOLE(2532)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/jquery.min.772fb04d4ce536dfb06c17e789ad4dbd.js (2532)
+[960:6180:0912/112052.801:INFO:CONSOLE(662)] "getJSON Failed", source: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-www/clientlibs_sfdc_forms.min.aec6780bb97abdc14eee1670299312ce.js (662)

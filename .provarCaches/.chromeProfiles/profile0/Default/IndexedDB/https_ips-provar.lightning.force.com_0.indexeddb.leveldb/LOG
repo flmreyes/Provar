@@ -1,0 +1,12 @@
+2019/09/12-11:20:11.958 fc Reusing MANIFEST C:\Users\francis.l.m.reyes\GitHub\.provarCaches\.chromeProfiles\profile0\Default\IndexedDB\https_ips-provar.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/09/12-11:20:11.962 fc Recovering log #20
+2019/09/12-11:20:11.965 fc Reusing old log C:\Users\francis.l.m.reyes\GitHub\.provarCaches\.chromeProfiles\profile0\Default\IndexedDB\https_ips-provar.lightning.force.com_0.indexeddb.leveldb/000020.log 
+2019/09/12-11:20:15.341 4024 Compacting 1@0 + 1@1 files
+2019/09/12-11:20:15.360 4024 Generated table #23@0: 656 keys, 1014931 bytes
+2019/09/12-11:20:15.361 4024 Compacted 1@0 + 1@1 files => 1014931 bytes
+2019/09/12-11:20:15.364 4024 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/09/12-11:20:15.365 4024 Delete type=2 #19
+2019/09/12-11:20:15.366 4024 Delete type=2 #21
+2019/09/12-11:20:18.049 4024 Level-0 table #25: started
+2019/09/12-11:20:18.089 4024 Level-0 table #25: 4220946 bytes OK
+2019/09/12-11:20:18.094 4024 Delete type=0 #20
